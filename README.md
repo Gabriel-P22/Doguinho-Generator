@@ -6,7 +6,7 @@ Um gerador de imagens aleatorias de doguinhos
 
 <h1 id="technologies">
 
-## :sparkles: Funcionalidades
+## :sparkles: Tecnologias 
 * Html
 * Css
 * Js
